@@ -4,7 +4,7 @@ public class MaClasse
 	
 	public MaClasse()
 	{
-		mSize=50;
+		mSize=500;
 	}
 	
 	
